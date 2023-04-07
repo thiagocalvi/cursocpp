@@ -12,8 +12,3 @@ Essa é a estrutura básica do nosso código.
     }
 ```
 
-
-```js script
-    impot
-```
-
